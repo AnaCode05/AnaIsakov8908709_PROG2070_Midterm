@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace MidTermPROG2070
+namespace AnaIsakov8908709
 {
-    public class Program
+    public class Calculator
     {
         public static string CategorizeNumber(int number)
         {
